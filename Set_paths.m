@@ -37,26 +37,25 @@ clear;
 %% Path settings for the whole processing pipeline
 
 % Path to the raw data files
-path.rawdata = '/Users/christoph/Desktop/CHUV/Vibramoov/Data_Raw';
+path.rawdata = 'C:\Documents\Vibramoov\Data\Data_Raw';
 
 % Path to the Vibramoov sequence files (for trigger extraction)
-path.sequences = '/Users/christoph/Desktop/CHUV/Vibramoov/Sequences';
+path.sequences = 'C:\Documents\Vibramoov\Data\Sequences';
 
 % Path to the save directory after fixing triggers
-path.data = '/Users/christoph/Desktop/CHUV/Vibramoov/Data_Fixed';
+path.data = 'C:\Documents\Vibramoov\Data\Data_Fixed';
 
 % Path to preprocessed data (after filtering, artifact removal)
-path.preproc = '/Users/christoph/Desktop/CHUV/Vibramoov/Data_Preprocessed';
+path.preproc = 'C:\Documents\Vibramoov\Data\Data_Preprocessed';
 
 % Path to PSD data
-path.psd = '/Users/christoph/Desktop/CHUV/Vibramoov/Data_PSD';
+path.psd = 'C:\Documents\Vibramoov\Data\Data_PSD';
 
 % Path to ERP data
-path.erp = '/Users/christoph/Desktop/CHUV/Vibramoov/Data_ERP';
+path.erp = 'C:\Documents\Vibramoov\Data\Data_ERP';
 
 % Path to Classification Results
-path.clsfres = '/Users/christoph/Desktop/CHUV/Vibramoov/Results';
-
+path.clsfres = 'C:\Documents\Vibramoov\Data\Results';
 
 % +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 % +++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
